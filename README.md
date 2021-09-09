@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on BYSL Global Technologies
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on Open Source Project
-- 👀 I’m interested in node.js, Dot Net 
+- 👀 I’m interested in node.js, Python, .NET 
 - 📫 How to reach me naim.ahmed035@gmail.com
 
 
