@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @SAhmedNaim
+- 🔭 I’m currently working on BYSL Global Technologies
+- 🌱 I’m currently learning node.js
+- 💞️ I’m looking to collaborate on Open Source Project
+- 👀 I’m interested in node.js, Dot Net 
+- 📫 How to reach me naim.ahmed035@gmail.com
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sahmednaim&count_private=true&show_icons=true&theme=radical)
+![](https://komarev.com/ghpvc/?username=sh6210&color=brightgreen)
